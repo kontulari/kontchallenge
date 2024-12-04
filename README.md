@@ -56,7 +56,7 @@ O link do repositório deve ser enviado para o email **comunicacao@kontulari.com
 
 ### Prazo
 
-**Entrega até dd/MM/yyyy as hh:mm.**
+**Entrega até 10/12/2024 as 23:59.**
 
 Commits realizados após esse prazo não serão considerados na avaliação.
 
